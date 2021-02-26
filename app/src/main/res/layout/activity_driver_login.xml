@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".DriverLoginActivity"
+    android:orientation = "vertical"
+    android:background="@color/black"
+    android:gravity="center">
+
+    <pl.droidsonroids.gif.GifImageView
+        android:layout_width="208dp"
+        android:layout_height="120dp"
+        android:src="@drawable/pickuop" />
+
+    <EditText
+        android:id="@+id/email"
+        android:layout_width="327dp"
+        android:layout_height="53dp"
+        android:textColor="@color/black"
+        android:background="@color/white"
+        android:hint=" E-mail"
+        android:textColorHint="@color/black"/>
+
+    <EditText
+        android:id="@+id/password"
+        android:layout_width="327dp"
+        android:layout_height="47dp"
+        android:background="@color/white"
+        android:textColor="@color/black"
+        android:hint=" *********"
+        android:textColorHint="@color/black"/>
+    <Button
+        android:id="@+id/login"
+        android:layout_width="171dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#aa0104"
+        android:text="login" />
+
+    <Button
+        android:id="@+id/registration"
+        android:layout_width="125dp"
+        android:layout_height="wrap_content"
+        android:backgroundTint="#aa0104"
+        android:text="signup" />
+</LinearLayout>

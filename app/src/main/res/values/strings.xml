@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Pickuop</string>
+    <string name="title_activity_customer_map">Map</string>
+    <string name="mapbox_access_token">pk.eyJ1IjoidGhlb2xvZ2lhIiwiYSI6ImNrbDJzOXlkNTE3dHUydmxiaW12bXRzdGoifQ.5zuTBB1BJAcjn0bQw6GhXw</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

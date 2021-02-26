@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "294745573178",
+    "firebase_url": "https://pickuop-default-rtdb.firebaseio.com",
+    "project_id": "pickuop",
+    "storage_bucket": "pickuop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294745573178:android:8a25becc850fe4563c7203",
+        "android_client_info": {
+          "package_name": "com.theologia.pickuop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "294745573178-use93sm54bartcvqo93e0agcqu5h5509.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.theologia.pickuop",
+            "certificate_hash": "72107ec4ce1a64d9fa6a79690fd06249c5ea3f5f"
+          }
+        },
+        {
+          "client_id": "294745573178-aadlicatpju6jf0o7mo4for7o52u9fq5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFgWrW_iTQUBh2MByo5faJHt9adxnbmsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "294745573178-aadlicatpju6jf0o7mo4for7o52u9fq5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
